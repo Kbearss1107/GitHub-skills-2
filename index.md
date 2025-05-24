@@ -10,3 +10,7 @@ Added a h1 header to the file
 ``` c++
 cout >> "Hello World!";
 ```
+- [ ] Make list
+- [ ] make longer list
+- [ ] check off things in list
+- [ ] profit
